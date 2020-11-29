@@ -1,12 +1,13 @@
 # Site wide configuration
 
-title:            Stories of Bits and Bytes
+title:            Bits & Bytes
 locale:           en_US
-baseurl:          /my-blog 
-url:              https://aknooh.github.io
 
 
 # Jekyll configuration
+
+remote_theme: mmistakes/minimal-mistakes
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 permalink:   /:categories/:title/
 markdown:    kramdown
