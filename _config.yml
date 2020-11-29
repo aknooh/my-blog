@@ -2,7 +2,8 @@
 
 title:            Stories of Bits and Bytes
 locale:           en_US
-url:
+baseurl:          /my-blog 
+url:              https://aknooh.github.io
 
 
 # Jekyll configuration
